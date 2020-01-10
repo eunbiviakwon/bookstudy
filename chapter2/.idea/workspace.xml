@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e137aff0-81a5-4822-a0b4-0258edb8dd64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch99/blog/templates/blog/post_all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch99/blog/templates/blog/post_archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch99/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch99/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch99/bookmark/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch99/blog/templates/blog/post_archive_day.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch99/blog/templates/blog/post_archive_month.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch99/mysite/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch99/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch99/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/blog/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch99/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch99/blog/templates/blog/post_all.html" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/blog/templates/blog/post_all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch99/blog/templates/blog/post_archive_year.html" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/blog/templates/blog/post_archive_year.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch99/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch99/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/mysite/urls.py" afterDir="false" />
     </list>
@@ -65,7 +64,9 @@
       <workItem from="1578446840774" duration="3468000" />
       <workItem from="1578536769580" duration="1904000" />
       <workItem from="1578555968835" duration="779000" />
-      <workItem from="1578615078436" duration="5897000" />
+      <workItem from="1578615078436" duration="8917000" />
+      <workItem from="1578643913710" duration="3239000" />
+      <workItem from="1578648004997" duration="1886000" />
     </task>
     <servers />
   </component>
